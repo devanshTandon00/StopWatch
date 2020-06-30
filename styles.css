@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+}
+
+body{
+  background-image: url(wood.jpg);
+}
+
+.clock {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 100px;
+  padding-top: 100px;
+  margin-bottom: 5px;
+  color: #26191b;
+}
+
+button{
+  padding: 5px;
+  border-radius: 25px;
+  color: white;
+  background-color: #26191b;
+  font-size: 25px;
+  letter-spacing: .2rem;
+  font-family: 'Source Code Pro', monospace;
+  border-style: double;
+  border-color: #fcbf1e;
+}
